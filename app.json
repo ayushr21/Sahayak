@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "sahayak",
+    "slug": "sahayak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo/logo-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo/logo-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo/logo-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo/logo-icon.png"
+    }
+  }
+}
